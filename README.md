@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajas Rakhe</h1>
+<h1 align="center">A Philomath Person , who loves to learn in new skills in public</h1>
 :man_technologist: About me
 
 - 👋 Hi, I’m Rajas Rakhe
