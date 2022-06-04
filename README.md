@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Rajas Rakhe</h1>
+## :man_technologist: About me 
 - 👋 Hi, I’m Rajas Rakhe
 - 👀 I’m interested in Web development and Machine Learning 
 - 🌱 I’m currently learning React Js and Node Js
