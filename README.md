@@ -12,7 +12,7 @@ I'm a Electronics and Telecommunication Juniorat at VIT.
 ## :incoming_envelope: Reach Me
 <div align=center>
   <a href="https://www.linkedin.com/in/rajasrakhe/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-  <a href="mailto:rajasrakhe20@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="mailto:rajasrakhe20@gmail.com"><img src="https://iconscout.com/icon/gmail-30" title="Linkedin" alt="Linkedin Account" width="30"/></a>
   <br><br>
 </div>
 
