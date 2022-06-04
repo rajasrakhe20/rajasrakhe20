@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajas Rakhe</h1>
-<h3 align="center">A Philomath Person , who loves to learn in new skills in public</h3>
+<h3 align="center">A Tech enthusiast , who aims to write a quality code</h3>
 
 ## :man_technologist: About Me
 
