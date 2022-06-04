@@ -2,11 +2,8 @@
 <h1 align="center">A Philomath Person , who loves to learn in new skills in public</h1>
 :man_technologist: About me
 
+I'm a Electronics and Telecommunication Juniorat VIT.
 - 👋 Hi, I’m Rajas Rakhe
 - 👀 I’m interested in Web development and Machine Learning 
 - 🌱 I’m currently learning React Js and Node Js
 
-<!---
-rajasrakhe20/rajasrakhe20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
