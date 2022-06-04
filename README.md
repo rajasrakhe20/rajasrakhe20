@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajas Rakhe</h1>
 <h1 align="center">A Philomath Person , who loves to learn in new skills in public</h1>
 
-## :man_technologist: About me
+## :man_technologist: About Me
 
 I'm a Electronics and Telecommunication Juniorat at VIT.
 - 👀 I’m interested in Web development and Machine Learning 
