@@ -3,7 +3,7 @@
 
 ## :man_technologist: About Me
 
-I'm a Electronics and Telecommunication Juniorat at VIT.
+I'm a Software Development Engineer. I have completed my B.Tech in Electronics and Telecommunication Engineering from VIT Pune.
 - 👀 I’m interested in Web development and Machine Learning 
 - 🌱 I’m currently learning React Js and Node Js
 
